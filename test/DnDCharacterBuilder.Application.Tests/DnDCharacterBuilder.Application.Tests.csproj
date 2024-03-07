@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\DnDCharacterBuilder.Domain\DnDCharacterBuilder.Domain.csproj" />
+    <ProjectReference Include="..\..\src\DnDCharacterBuilder.Application\DnDCharacterBuilder.Application.csproj" />
   </ItemGroup>
 
 </Project>
