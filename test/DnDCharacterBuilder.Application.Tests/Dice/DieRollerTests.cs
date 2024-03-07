@@ -53,8 +53,6 @@ public class DieRollerTests
     {
         // Arrange
         const int result = 4;
-        const DieType dieType = DieType.D6;
-        const int numberOfDice = 3;
         const string diceExpression = "3d6";
         
         var random = new RandomFake(result);
